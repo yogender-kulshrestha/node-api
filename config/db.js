@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://localhost:27017/node_app"
+    url: "mongodb+srv://intecyogi:intecyogi@intecyogi.id0iw.mongodb.net/nodeapi?retryWrites=true&w=majority"
 };
